@@ -15,6 +15,7 @@
 }
 @font-face{
 	font-family: OpenSans-Bold;
+	src: url(../fonts/Open/OpenSans-Bold.ttf);
 }
 
 /*Clearfix*/
@@ -35,6 +36,8 @@
 	margin: 0;
 	width: 100%;
 }
+
+/*Utilities*/
 .texto{
 	line-height: 1.6;
 }
